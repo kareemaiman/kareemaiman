@@ -1,26 +1,27 @@
 # Hi, I'm Kareem 👋
 
-I am a Software Engineer specializing in backend performance optimization, custom workflow automation, and self-hosted system infrastructure. I build robust tools that eliminate technical bottlenecks and streamline operations for businesses.
+Full-stack developer focused on **Linux systems & AI infrastructure** — from FastAPI
+and C++ backends to React and Flutter clients, running on self-hosted Docker,
+PostgreSQL, and Tailscale stacks. I build practical tools that remove bottlenecks
+and work reliably on real hardware.
 
----
+## Tech Stack
 
-### 🛠️ Core Stack & Capabilities
-- **Languages:** Python, C++, SQL (PostgreSQL), Bash
-- **Automation & APIs:** Custom Integration Pipelines, RESTful Architectures, Webhooks
-- **Infrastructure & Systems:** Docker Compose, Reverse Proxies (Traefik), Secure Private Networking (Tailscale)
-<!--
----
+- **Languages:** Python · C/C++ · TypeScript · Dart · Bash/SQL
+- **Backend & AI:** FastAPI · Django · LiteLLM · Ollama · PostgreSQL
+- **Frontend & Mobile:** React · React Native · Flutter · vanilla JS/CSS
+- **Systems & Infra:** Linux · OpenWrt · Docker Compose · Tailscale · systemd
 
-### 📌 Featured Production-Ready Projects
-*(Link 2 or 3 of your cleanest repositories here. Ensure they have visual READMEs with screenshots!)*
+## Featured Projects
 
-*   **[Project Name 1]** - A high-performance [Python/C++] custom automation engine that optimizes data parsing pipelines.
-*   **[Project Name 2]** - A robust Dockerized environment template configuring Traefik proxy layers with secure internal bridge networks.
+- **[Habitify RPG](https://github.com/kareemaiman/gamify)** — gamified habit &
+  productivity tracker with quests, XP, and analytics (FastAPI, Django, Postgres, Docker).
+- **[AetherBound](https://github.com/kareemaiman/solar-system-graphics-project)** —
+  3D space simulation with a vectorized N-body gravity engine and destruction (Python, OpenGL).
+- **[Cubie](https://github.com/kareemaiman/cubie)** — Flutter app that scans a physical
+  Rubik's Cube and guides you to the solution with Kociemba's two-phase algorithm.
 
----
+## Find Me Elsewhere
 
-### 💼 Let's Build Something Efficient
-I partner with agencies and startup teams to take the complexity out of their technical backends. 
-- 🌐 **Portfolio Website:** [Your Link Here]
-- 📧 **Direct Contact:** [Your Professional Email]
--->
+- 🌐 Portfolio: [kareemaiman.is-a.dev](https://kareemaiman.is-a.dev/)
+- 💼 LinkedIn: [linkedin.com/in/kareemaiman710](https://linkedin.com/in/kareemaiman710)
